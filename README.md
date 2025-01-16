@@ -8,9 +8,13 @@ I'm a passionate Full Stack Developer and UI/UX Designer with over 3 years of ex
 
 
 
+<a href="https://app.daily.dev/justdila"><img src="https://api.daily.dev/devcards/v2/VzOYeZ5sdGpZRG3TGHk3U.png?type=default&r=tqw" width="356" alt="Dilshan Liyanage's Dev Card"/></a>
 
 
-# 🔧 Technologies & Skills
+
+
+
+## 🔧 Technologies & Skills
 
 **Frontend** : React, HTML, CSS, Bootstrap, JavaScript, and jQuery
 
@@ -27,7 +31,7 @@ I'm a passionate Full Stack Developer and UI/UX Designer with over 3 years of ex
 
 
 
-# 💡 Projects I'm Proud Of
+## 💡 Projects I'm Proud Of
 
 **[PixShare | An Instagram Alternative](https://github.com/dilshanliyanage1000/PixshareAPI)** : An Instagram-inspired web app for sharing, liking, and commenting on images, built with ASP.NET Web API and React, powered by DynamoDB.
 
@@ -38,7 +42,7 @@ I'm a passionate Full Stack Developer and UI/UX Designer with over 3 years of ex
 
 
 
-# 🎓 Education
+## 🎓 Education
 
 **Software Engineering Technology Advanced Diploma**, Centennial College Progress Campus (High Honors)
 
@@ -48,7 +52,7 @@ I'm a passionate Full Stack Developer and UI/UX Designer with over 3 years of ex
 
 
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 **Email**: dilshanliyanage1000@gmail.com
 
@@ -57,4 +61,4 @@ I'm a passionate Full Stack Developer and UI/UX Designer with over 3 years of ex
 
 
 
-Thanks for stopping by! Let’s create something amazing together. 🚀
+## Thanks for stopping by! Let’s create something amazing together. 🚀
