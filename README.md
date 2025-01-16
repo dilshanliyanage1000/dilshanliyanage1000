@@ -4,7 +4,7 @@ I'm a passionate Full Stack Developer and UI/UX Designer with over 3 years of ex
 
 
 
-**(🌐 Visit my portfolio)[https://dilshanliyanage1000.github.io/portfolio/]**
+**[🌐 Visit my portfolio](https://dilshanliyanage1000.github.io/portfolio/)**
 
 
 # 🔧 Technologies & Skills
